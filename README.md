@@ -1,1 +1,1 @@
-A cinema administration system 
+An interactive cinema administration system built around a database
