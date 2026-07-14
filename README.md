@@ -1,1 +1,1 @@
-An interactive cinema administration system built around a database, using 
+An interactive cinema administration system built around a database, using Docker.
